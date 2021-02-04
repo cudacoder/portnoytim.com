@@ -15,6 +15,13 @@ h3 {
   font-weight: 400;
 }
 
+p {
+  text-align: justify;
+  text-justify: auto;
+  color: blue;
+  hyphens: auto;
+}
+
 img {
   display: block;
 }
