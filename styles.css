@@ -42,7 +42,7 @@ img {
 
 .marquee {
   left: 10%;
-  top: 100px;
+	margin: 2% 0%;
   position: relative;
   animation: marquee 20s infinite;
 }
